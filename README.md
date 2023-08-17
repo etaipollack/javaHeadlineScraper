@@ -1,1 +1,1 @@
-# javaHeadlineScraper
+# pythonHeadlineScraper
